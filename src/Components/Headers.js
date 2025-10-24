@@ -3,7 +3,7 @@ import "../styles.css";
 
 export default function Headers() {
   return (
-    <div className="headers">
+    <div className="header">
       <img className="logo" src="logo.png" alt="MovieDux" />
       <h2 className="app-subtitle">
         It's time for popcorn ! Find your next movie here .
